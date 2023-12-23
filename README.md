@@ -17,13 +17,13 @@ I'm sure some of you want to nail me to a stake and burn me like a witch, but I 
 ### Before
 
 <video autoplay muted loop nocontrols>
-  <source src="before.mp4" type="video/mp4">
+  <source src="https://github.com/rootBrz/nexusmods_downloadfix_noboohoosuck/before.mp4" type="video/mp4">
 </video>
 
 ### After
 
 <video autoplay muted loop nocontrols>
-  <source src="after.mp4" type="video/mp4">
+  <source src="https://github.com/rootBrz/nexusmods_downloadfix_noboohoosuck/after.mp4" type="video/mp4">
 </video>
 
 ## Endorse Mods!
@@ -44,9 +44,9 @@ I personally prefer Violentmonkey.
 
 After installing an extension of your choice, you can go to the install link and well.. install the script.
 
-[Install](https://github.com/randomtdev/nexusmods_downloadfix/raw/master/nexusmods_downloadfix.user.js)
+[Install](https://github.com/rootBrz/nexusmods_downloadfix/raw/master/nexusmods_downloadfix.user.js)
 
-[Source](https://github.com/randomtdev/nexusmods_downloadfix)
+[Source](https://github.com/rootBrz/nexusmods_downloadfix)
 
 ### Updates
 
