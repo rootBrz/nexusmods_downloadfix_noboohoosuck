@@ -8,8 +8,8 @@
 // @version         1.5.3
 // @author          randomtdev, root
 // @require         https://ajax.googleapis.com/ajax/libs/jquery/2.2.0/jquery.min.js
-// @updateURL       https://gitcdn.xyz/repo/rootBrz/nexusmods_downloadfix/master/nexusmods_downloadfix.meta.js
-// @downloadURL     https://gitcdn.xyz/repo/rootBrz/nexusmods_downloadfix/master/nexusmods_downloadfix.user.js
+// @updateURL       https://gitcdn.xyz/repo/rootBrz/nexusmods_downloadfix_noboohoosuck/master/nexusmods_downloadfix.meta.js
+// @downloadURL     https://gitcdn.xyz/repo/rootBrz/nexusmods_downloadfix_noboohoosuck/master/nexusmods_downloadfix.user.js
 // @homepageURL     https://github.com/rootBrz/nexusmods_downloadfix_noboohoosuck
 // @run-at			document-start
 // ==/UserScript==

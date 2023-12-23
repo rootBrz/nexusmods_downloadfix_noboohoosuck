@@ -44,9 +44,9 @@ I personally prefer Violentmonkey.
 
 After installing an extension of your choice, you can go to the install link and well.. install the script.
 
-[Install](https://github.com/rootBrz/nexusmods_downloadfix/raw/master/nexusmods_downloadfix.user.js)
+[Install](https://github.com/rootBrz/nexusmods_downloadfix_noboohoosuck/raw/master/nexusmods_downloadfix.user.js)
 
-[Source](https://github.com/rootBrz/nexusmods_downloadfix)
+[Source](https://github.com/rootBrz/nexusmods_downloadfix_noboohoosuck)
 
 ### Updates
 
