@@ -16,15 +16,11 @@ I'm sure some of you want to nail me to a stake and burn me like a witch, but I 
 
 ### Before
 
-<video autoplay muted loop nocontrols>
-  <source src="https://github.com/rootBrz/nexusmods_downloadfix_noboohoosuck/before.mp4" type="video/mp4">
-</video>
+![Before](docs/before.gif)
 
 ### After
 
-<video autoplay muted loop nocontrols>
-  <source src="https://github.com/rootBrz/nexusmods_downloadfix_noboohoosuck/after.mp4" type="video/mp4">
-</video>
+![After](docs/after.gif)
 
 ## Endorse Mods!
 
